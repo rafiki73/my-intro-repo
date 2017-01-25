@@ -1,2 +1,2 @@
-# my-intro-repo
+# My-intro-repo : sparkles
 learning how to use
